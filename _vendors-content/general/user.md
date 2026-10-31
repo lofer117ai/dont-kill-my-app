@@ -1,4 +1,4 @@
----
+pip install openai SpeechRecognition pyttsx3---
 manufacturer:
     - general
 ---
